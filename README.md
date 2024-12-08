@@ -36,7 +36,7 @@
   <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js logo" />
   <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original.svg" height="30" alt="Tailwind CSS logo" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@latest/devicon-original-wordmark.svg" alt="Tailwind CSS logo" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
   <img width="12" />
